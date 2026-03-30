@@ -48,7 +48,7 @@ Built an interactive report with the following insights:
       => Product-wise and customer-wise unit distribution
       => Buying and selling price comparison across products and cities
       => Profit and loss analysis
-      => Sales trends based on time, location, and customer behavior
+      => Sales trends based on time, location, and customer behaviour
 
 ---
 
