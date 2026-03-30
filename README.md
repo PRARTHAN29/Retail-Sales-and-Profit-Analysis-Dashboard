@@ -1,4 +1,4 @@
-# 📊 Retail Sales & Profit Analysis Dashboard
+# 📊 Retail Sales & Profit Analysis Report
 
 ## 📌 Project Description
 
