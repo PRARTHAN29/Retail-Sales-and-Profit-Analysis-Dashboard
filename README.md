@@ -21,17 +21,21 @@
 ## 🔧 Tasks Performed
 
 Cleaned and transformed the raw dataset:
+      
       => Removed unnecessary and duplicate columns (Sales table)
       => Sorted and renamed columns for better readability
 
 Performed data modeling:
+
       => Created relationships using:
 
             * Sales ↔ Store (via Product ID)
             * Sales ↔ Customer Information (via Customer ID)
+     
       => Merged all tables into a single dataset for analysis
 
 Created calculated columns for business insights:
+
       => Selling Price (Unit Sold × Store Price)
       => Buying Price (Unit Sold × Production Cost)
       => Profit Price (Selling Price − Buying Price)
@@ -40,6 +44,7 @@ Created calculated columns for business insights:
       => Performance (High, Good, OK based on profit)
 
 Built an interactive report with the following insights:
+      
       => Product-wise and customer-wise unit distribution
       => Buying and selling price comparison across products and cities
       => Profit and loss analysis
@@ -50,6 +55,7 @@ Built an interactive report with the following insights:
 ## ✨ Key Features
 
 Cards (used as KPIs):
+     
      => Total Units
      => Total Buying Price
      => Total Selling Price
@@ -57,18 +63,21 @@ Cards (used as KPIs):
      => Performance Indicator
 
 Slicers:
+     
      => City
      => Customer Name
      => Product Name
      => Purchase Date
 
 Charts & Visuals:
+     
      => Pie Charts: Unit distribution by product, customer, and city
      => Column Charts: Buying and selling price by product and city
      => Line Chart: Buying vs Selling comparison
      => Table: Monthly breakdown of buying and selling
 
 Navigation:
+     
      => Interactive buttons for page navigation
      => Bookmark-based menu (open/close toggle)
 
