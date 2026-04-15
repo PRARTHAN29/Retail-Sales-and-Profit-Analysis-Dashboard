@@ -94,4 +94,13 @@ Navigation:
            => The Energy Bar is the highest-selling product, and all of its sales are concentrated in California, indicating a highly localized demand pattern.
            => The Survival Knife is the most profitable product, with more than 75% of its total units sold in Aurora, showing strong regional performance.
 
+---
+
+## Recommandation
+
+
+          =>Replicate successful city-specific strategies in other regions and analyze factors behind balanced demand.
+          =>Expand distribution to other regions to leverage its high demand potential.
+          =>Identify success factors in Aurora and replicate them in other markets to boost profitabilit for Survival Knife.
+
 
