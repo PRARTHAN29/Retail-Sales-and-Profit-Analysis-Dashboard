@@ -95,11 +95,3 @@ Navigation:
            => The Survival Knife is the most profitable product, with more than 75% of its total units sold in Aurora, showing strong regional performance.
 
 
----
-
-## Recommandation
-
-          =>Focus on scaling production, optimizing supply chain, and increasing marketing efforts for Paseo.
-          =>Consider expanding manufacturing operations in Germany to maximize profit margins.
-          =>Replicate successful city-specific strategies in other regions and analyze factors behind balanced demand.
-          =>Expand distribution to other regions to leverage its high demand potential.
