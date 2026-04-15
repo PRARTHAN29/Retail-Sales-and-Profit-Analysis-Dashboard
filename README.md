@@ -86,3 +86,10 @@ Navigation:
 ## 🎯 Goal
 => To analyze business performance by tracking sales, costs, and profitability, and to help organizations improve decision-making by identifying trends, high-performing products, and areas needing improvement.
 => To analyze business performance by tracking **sales, costs, and profitability**, and to help organizations improve decision-making by identifying trends, high-performing products, and areas needing improvement.
+
+
+## Insight
+
+           => Most products are predominantly sold in a specific city, except the First Aid Kit, which shows an even 50-50% distribution across two cities.
+           => The Energy Bar is the highest-selling product, and all of its sales are concentrated in California, indicating a highly localized demand pattern.
+           => The Survival Knife is the most profitable product, with more than 75% of its total units sold in Aurora, showing strong regional performance.
